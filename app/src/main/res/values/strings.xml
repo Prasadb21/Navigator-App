@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="google_maps_ApiKey">AIzaSyDG1BQKFDXiroleJhux8ZI3PFeiWmFuQBk</string>
+
+    <string name="app_name">Navigation</string>
+    <string name="enter_address_city_or_zip_code">Enter Address , City or Zip Code</string>
+</resources>
